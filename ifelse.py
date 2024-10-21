@@ -5,9 +5,8 @@
 #     print("Oh well what is your name?")
   
 
-name = "python"
+name = input("Enter your name: ")
 if name == "python":
         print("Hello,", name)
 else:
-    name1 = input("Enter your name ")
-    print("oh well my name is",name1)
+    print("oh well my name is",name)
