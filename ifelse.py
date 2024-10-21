@@ -9,5 +9,5 @@ name = "python"
 if name == "python":
         print("Hello,", name)
 else:
-    name1 = input("Enter your name ":)
+    name1 = input("Enter your name ")
     print("oh well my name is",name1)
